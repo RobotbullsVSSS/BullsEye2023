@@ -1,0 +1,229 @@
+{
+    "ColorSpace": [
+        {
+            "colorID": 1,
+            "maxH": 9,
+            "maxS": 255,
+            "maxV": 255,
+            "minH": 0,
+            "minS": 147,
+            "minV": 180
+        },
+        {
+            "colorID": 2,
+            "maxH": 27,
+            "maxS": 255,
+            "maxV": 255,
+            "minH": 17,
+            "minS": 170,
+            "minV": 222
+        },
+        {
+            "colorID": 3,
+            "maxH": 148,
+            "maxS": 255,
+            "maxV": 255,
+            "minH": 98,
+            "minS": 150,
+            "minV": 170
+        },
+        {
+            "colorID": 4,
+            "maxH": 118,
+            "maxS": 252,
+            "maxV": 227,
+            "minH": 180,
+            "minS": 74,
+            "minV": 149
+        },
+        {
+            "colorID": 5,
+            "maxH": 81,
+            "maxS": 255,
+            "maxV": 255,
+            "minH": 35,
+            "minS": 171,
+            "minV": 86
+        },
+        {
+            "colorID": 6,
+            "maxH": 180,
+            "maxS": 189,
+            "maxV": 255,
+            "minH": 142,
+            "minS": 126,
+            "minV": 161
+        },
+        {
+            "colorID": 7,
+            "maxH": 137,
+            "maxS": 201,
+            "maxV": 250,
+            "minH": 114,
+            "minS": 121,
+            "minV": 72
+        },
+        {
+            "colorID": 8,
+            "maxH": 180,
+            "maxS": 255,
+            "maxV": 255,
+            "minH": 180,
+            "minS": 0,
+            "minV": 0
+        },
+        {
+            "colorID": 9,
+            "maxH": 18,
+            "maxS": 255,
+            "maxV": 211,
+            "minH": 0,
+            "minS": 145,
+            "minV": 61
+        }
+    ],
+    "CommunicationSpace": {
+        "cameraBrightness": -17,
+        "cameraContrast": 18,
+        "cameraID": 1,
+        "cameraSaturation": 128,
+        "cameraSharpness": 0,
+        "udpIP": "localhost",
+        "udpPORT": 5804
+    },
+    "Distortion": true,
+    "Field": {
+        "bottomLeft": {
+            "X": 39,
+            "Y": 478
+        },
+        "bottomRight": {
+            "X": 611,
+            "Y": 476
+        },
+        "topLeft": {
+            "X": 31,
+            "Y": 1
+        },
+        "topRight": {
+            "X": 608,
+            "Y": 4
+        }
+    },
+    "Goal": {
+        "bottomLeft": {
+            "X": 39,
+            "Y": 295
+        },
+        "bottomRight": {
+            "X": 605,
+            "Y": 321
+        },
+        "topLeft": {
+            "X": 36,
+            "Y": 188
+        },
+        "topRight": {
+            "X": 606,
+            "Y": 162
+        }
+    },
+    "LeftArea": {
+        "bottomLeft": {
+            "X": 42,
+            "Y": 374
+        },
+        "bottomRight": {
+            "X": 98,
+            "Y": 374
+        },
+        "topLeft": {
+            "X": 35,
+            "Y": 115
+        },
+        "topRight": {
+            "X": 95,
+            "Y": 113
+        }
+    },
+    "PlayerSpace": [
+        {
+            "colorID": 9,
+            "playerID": 1,
+            "teamID": 0
+        },
+        {
+            "colorID": 9,
+            "playerID": 1,
+            "teamID": 1
+        },
+        {
+            "colorID": 5,
+            "playerID": 2,
+            "teamID": 0
+        },
+        {
+            "colorID": 6,
+            "playerID": 2,
+            "teamID": 1
+        },
+        {
+            "colorID": 7,
+            "playerID": 3,
+            "teamID": 0
+        },
+        {
+            "colorID": 5,
+            "playerID": 3,
+            "teamID": 1
+        }
+    ],
+    "RightArea": {
+        "bottomLeft": {
+            "X": 545,
+            "Y": 377
+        },
+        "bottomRight": {
+            "X": 610,
+            "Y": 374
+        },
+        "topLeft": {
+            "X": 542,
+            "Y": 106
+        },
+        "topRight": {
+            "X": 607,
+            "Y": 107
+        }
+    },
+    "TeamSpace": [
+        {
+            "teamAngle": 1,
+            "teamID": 0,
+            "userPhase": 3
+        },
+        {
+            "teamAngle": 1,
+            "teamID": 1,
+            "userPhase": 3
+        }
+    ],
+    "Warp": {
+        "bottomLeft": {
+            "X": 158,
+            "Y": 422
+        },
+        "bottomRight": {
+            "X": 503,
+            "Y": 386
+        },
+        "topLeft": {
+            "X": 131,
+            "Y": 140
+        },
+        "topRight": {
+            "X": 478,
+            "Y": 118
+        }
+    }
+}
